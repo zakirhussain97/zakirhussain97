@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakirhussain97&label=Profile%20views&color=0e75b6&style=flat" alt="zakirhussain97" /> </p>
 
-<p align="left"> <a href="https://twitter.com/zakir74197235" target="blank"><img src="https://img.shields.io/twitter/follow/zakir74197235?logo=twitter&style=for-the-badge" alt="zakir74197235" /></a> </p>
+<p align="left"> <a href="https://twitter.com/zakkhassan97" target="blank"><img src="https://img.shields.io/twitter/follow/zakkhassan97?logo=twitter&style=for-the-badge" alt="zakkhassan97" /></a> </p>
 
 - 🌱 I’m currently learning **MongoDB, Strapi**
 
